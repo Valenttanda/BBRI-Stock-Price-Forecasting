@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Mohammad Valeriant Qumara Tanda
+# BBRI Stock Price Forecasting
 
 ## Domain Proyek
 
